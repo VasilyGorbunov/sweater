@@ -5,5 +5,5 @@
 <div>
 ${message?ifExists}
 </div>
-<@l.login "/registration"/>
+<@l.login "/registration" true/>
 </@c.page>
