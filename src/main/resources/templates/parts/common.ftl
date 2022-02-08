@@ -10,6 +10,7 @@
               integrity="sha384-zCbKRCUGaJDkqS1kPbPd7TveP5iyJE0EjAuZQTgFLD2ylzuqKfdKlfG/eSrtxUkn"
               crossorigin="anonymous">
         <link rel="stylesheet" href="/static/style.css">
+        <script src="https://www.google.com/recaptcha/api.js"></script>
     </head>
     <body>
     <#include "navbar.ftl" />
