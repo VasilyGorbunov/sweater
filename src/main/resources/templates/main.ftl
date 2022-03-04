@@ -10,7 +10,8 @@
                             type="text"
                             name="filter"
                             value="${filter?ifExists}"
-                            placeholder="Search by tag">
+                            placeholder="Search by tag"
+                    />
                 </div>
                 <div>
                     <button class="btn btn-info ml-2" type="submit">Search</button>
